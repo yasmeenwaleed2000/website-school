@@ -1,0 +1,33 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title h2{
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+
+footer{
+  height: 100px;
+}
+
+i{
+    font-size: 30px;
+     width: 50px;
+    
+     color: white;
+   }
+
+   .weight-font{
+    font-size: 100px;
+    
+   }
+
+   .styleParagraph{
+    font-size: 22px;
+    font-weight: 900;
+   }
+.width-image{
+  width: 10%;
+}
+   
